@@ -1,0 +1,25 @@
+h2 {
+    text-align: center;
+    color: pink;
+    text-shadow: 1px 1px 2px, black;
+    background-color: lavender;
+}
+
+p{
+    text-align: center;
+    color: palegreen;
+}
+
+span{
+    text-align: center;
+    color: palevioletred;
+    text-shadow: 1px 1px 2px, black;
+}
+
+button{
+    padding: 5px;
+    color: pink;
+    text-shadow: 1px 1px 2px, black;
+    background-color: lavender;
+    border: 1px solid, gray;
+}
